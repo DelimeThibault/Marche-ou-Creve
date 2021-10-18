@@ -14,9 +14,9 @@ Règle du jeu :
 Détails pour le code :
 
     Un message est afficher afin d'indiquer à quel point nous sommes proche/loin du nombre d'arriver.
-        - Si on est dans le 1er quart (0-25%) => message;
-        - Si on est dans le 2ème quart (25-50%) => message;
-        - Si on est dans le 3ème quart (50-75%) => message;
+        - Si on est dans le 1er quart (0-24%) => message;
+        - Si on est dans le 2ème quart (25-49%) => message;
+        - Si on est dans le 3ème quart (50-74%) => message;
         - Si on est dans le 4ème quart (75-99%) => message;
         - 100% => message pour le gagnant(s) et arrête la partie.
         - Si on dépasse la cible et qu'on est remis à 0.
