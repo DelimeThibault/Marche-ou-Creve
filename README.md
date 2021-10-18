@@ -20,3 +20,4 @@ Détails pour le code :
         - Si on est dans le 4ème quart (75-99%) => message;
         - 100% => message pour le gagnant(s) et arrête la partie.
         - Si on dépasse la cible et qu'on est remis à 0.
+        - On affiche un message de la position actuelle du jouer à chaque tour.
