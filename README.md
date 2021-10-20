@@ -17,7 +17,7 @@ Détails pour le code :
         - Si on est dans le 1er quart (0-24%) => message;
         - Si on est dans le 2ème quart (25-49%) => message;
         - Si on est dans le 3ème quart (50-74%) => message;
-        - Si on est dans le 4ème quart (75-99%) => message;
+        - Si on est dans le 4ème quart (75%-dernière position avant la cible) => message;
         - 100% => message pour le gagnant(s) et arrête la partie.
         - Si on dépasse la cible et qu'on est remis à 0.
         - On affiche un message de la position actuelle du jouer à chaque tour.
